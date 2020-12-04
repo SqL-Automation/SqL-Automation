@@ -6,7 +6,7 @@ I'm Form Indonesia
 
 Skills: JS / HTML / CSS
 
-<h1 align="center">Hi 👋, I'm Nori - Aja [ Yoshinori ]</h1>
+<h1 align="center">Hi 👋, I'm Nori - Aka [ Yoshinori ]</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshi0213&label=Profile%20views&color=0e75b6&style=flat" alt="yoshi0213" /> </p>
 
