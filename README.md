@@ -13,5 +13,13 @@
    <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
    <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+</P>
 
+:page_with_curl: I'm currently learning:
+
+- Python
+
+- PHP
+
+- Javascript
 
