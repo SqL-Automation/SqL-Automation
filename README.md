@@ -6,7 +6,7 @@
 
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 
-<h1  align='center'> My Skills  </h1>
+<h1  align='center'> ------------- </h1>
 
 </P>
 
