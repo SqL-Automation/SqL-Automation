@@ -1,6 +1,6 @@
 <p align='center'><a href="https://instagram.com/ariiqchan._"><img height="200" src="https://github.com/Yoshi0213/Yoshi0213/blob/main/developer.gif?raw=true"></a>&nbsp;&nbsp;</p>
 
-<h1  align='center'> Hi, Everyone I Yoshinori 👋 </h1>
+<h1  align='center'> Hi, Everyone I Riq 👋 </h1>
 
 <p align='center'>  I'm Nori (18 y.o) ! :sunglasses: </p>
 
